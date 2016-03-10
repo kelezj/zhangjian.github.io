@@ -1,0 +1,3 @@
+deploy: type:git
+repository: https://github.com/kelezj/zhangjian.github.io.git
+branch: master
